@@ -1,0 +1,58 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.pdb
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+# NuGet v3
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# MSBuild Binary log
+*.binlog
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Logs
+*.log
+
+# Rider IDE
+.idea/
+
+# Others
+*.cache
+*.dbmdl
+*.vspscc
+*.vssscc
+
+# Visual Studio
+.vs/
